@@ -10,20 +10,20 @@ export default function Footer()
             <div className="row margintb">
                 <div className="col-sm-2 col-md-2 col-lg-2">
 
-                    <div>Contact Us</div>
+                    <h3>Contact Us</h3>
                     <div>8939758254</div>
                     <div>yogeshkumar.05@live.in</div>
                 </div>
                 <div className="col-sm-2 col-md-2 col-lg-2">
 
-                    <div>Follow Us</div>
+                    <h3>Follow Us</h3>
                     <div>LinkedIn</div>
                     <div>Facebook</div>
                 </div>
                 <div className="col-sm-3 col-md-3 col-lg-3">
                 </div>
                 <div className="col-sm-5 col-md-5 col-lg-5">
-                    <div>Join our monthly news letter</div>
+                    <h3>Join our monthly news letter</h3>
                     <div>You need a helping hand?</div>
                     <InputGroup>
                         <FormControl type="text" className="nooutline shadow" placeholder="Your Email here" />
