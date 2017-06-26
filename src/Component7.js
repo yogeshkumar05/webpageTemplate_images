@@ -12,7 +12,7 @@ export default function Component7()
                 </a>
             </div>
             <div className="col-sm-6 col-md-6 col-lg-6 linkdiv">
-                <a href="link2.jpg">
+                <a href="link2.JPG">
                     <img className="linkimages" src="../images/link2.jpg" alt="link2"/>
                     <h1 className="center linktext">LINK2</h1>
                 </a>
