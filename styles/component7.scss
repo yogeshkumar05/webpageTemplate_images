@@ -1,0 +1,33 @@
+.linkimages {
+        opacity: 0.4;
+        width: 100%;
+    }
+
+    .linkdiv {
+        padding: 0px;
+        margin: 0px;
+    }
+
+    .linkimages:hover {
+        opacity: 1;
+    }
+
+     .center {
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translate(-50%, -50%);
+        font-size: 18px;
+        color: white;
+    }
+
+.component7
+{
+    margin-top:60px;
+}
+
+.linktext
+{
+    font-size: 40px;
+}
+

@@ -1,0 +1,68 @@
+@import 'header';
+@import 'component1';
+@import 'component2';
+@import 'component3';
+@import 'component4';
+@import 'component5';
+@import 'component6';
+@import 'component7';
+
+   .shadow {
+        box-shadow: 4px 4px 20px #ddd;
+    }
+
+*
+{
+    font-family: proxima-nova;
+    //color:#426a91;
+}
+
+.thumbnail
+{
+    border:none;
+}
+
+.buttonMain
+{
+    border-radius: 40px;
+    width:120px;
+    height:30px;
+}
+
+.noBorderbtn
+{
+    @extend .buttonMain;
+    border: none;
+}
+
+.aligncenter
+{
+    text-align: center;
+}
+
+.heading5
+{
+    width:380px;
+    height:92px;
+}
+
+.image2box
+{
+    width:380px;
+    height:243px;
+}
+
+.imagerow
+{
+    margin-top:40px;
+}
+
+.icons
+{
+    margin-bottom: 70px;
+}
+
+.nooutline
+{
+    border: none;
+}

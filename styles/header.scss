@@ -1,0 +1,47 @@
+$margin-left:10px;
+$margin-right:10px;
+$margin-top:10px;
+$margin-bottom:10px;
+
+$margin10:10px;
+
+.headerSection
+{
+    background-image:url('../images/header.jpg');
+
+    color:#fff;
+    
+}
+.transparent
+{
+    background-color: transparent;
+}
+
+.navBar
+{
+    margin-top:10px;
+    margin-left:10px;
+}
+
+.heading
+{
+    @extend .navBar;
+}
+
+.introduction
+{
+    @extend .navBar;
+}
+
+.playVideo
+{
+    @extend .navBar;
+    margin-bottom: 65px;
+    
+}
+
+.playIcon
+{
+    width: 55px;
+    height:55px;
+}
