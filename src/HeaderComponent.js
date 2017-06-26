@@ -54,7 +54,7 @@ function PlayVideo()
             <div className="col-sm-1 col-md-1 col-lg-1">
             </div>
             <div className="col-sm-5 col-md-5 col-lg-5">
-                <img src="../images/icons/play.png"/>Play Video
+                <img src="../images/icons/playbutton.png"/><span className="playBtn">Play Video</span>
             </div>
             <div className="col-sm-6 col-md-6 col-lg-6">
             </div>
