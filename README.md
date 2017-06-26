@@ -1,5 +1,9 @@
 # webpageTemplate_images
 
+Demo
+--------------------------
+The page is hosted at https://webpagetemplateimages.herokuapp.com/
+
 steps to exeecute
 ---------------------------
 1. install node 
